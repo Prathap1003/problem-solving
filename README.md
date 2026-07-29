@@ -10,4 +10,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
