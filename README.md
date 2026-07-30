@@ -33,4 +33,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
