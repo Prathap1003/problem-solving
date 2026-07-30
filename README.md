@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
