@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0136-single-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2595-number-of-even-and-odd-bits/) | Easy |
