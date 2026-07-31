@@ -54,6 +54,7 @@
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
+| [2595-number-of-even-and-odd-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2595-number-of-even-and-odd-bits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
