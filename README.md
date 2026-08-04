@@ -9,12 +9,14 @@
 | [0136-single-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3731-find-missing-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
