@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0136-single-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
@@ -27,6 +28,7 @@
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## String
@@ -60,6 +62,7 @@
 | [0136-single-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2595-number-of-even-and-odd-bits/) | Easy |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 ## Divide and Conquer
@@ -91,4 +94,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
