@@ -34,6 +34,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
