@@ -10,6 +10,7 @@
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
