@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [0507-perfect-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
