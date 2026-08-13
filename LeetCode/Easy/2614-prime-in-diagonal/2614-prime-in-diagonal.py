@@ -11,9 +11,8 @@ class Solution:
         for i in range(len(nums[0])):
             if box[nums[i][i]]:
                 maximum=max(maximum,nums[i][i])
-        for i in range(len(nums[0])):
             if box[nums[i][len(nums[0])-i-1]]:
-                maximum=max(maximum,nums[i][len(nums[0])-i-1])
+                maximum=max(maximum,nums[i][len(nums[0])-i-1])                
         return maximum
 
         
