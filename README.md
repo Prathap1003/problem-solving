@@ -50,6 +50,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
@@ -92,6 +93,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2595-number-of-even-and-odd-bits/) | Easy |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
