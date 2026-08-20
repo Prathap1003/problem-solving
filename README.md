@@ -17,6 +17,7 @@
 | [2614-prime-in-diagonal](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -87,6 +88,7 @@
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
