@@ -20,23 +20,15 @@ class Solution:
                 print(second)
                 cc+=1
                 if second[1]==second[2]==second[3]==second[4]==1:
-                    second[1]=0
-                    second[2]=0
                     second[3]=0
                     second[4]=0
                     answer+=1
                 if second[3]==second[4]==second[5]==second[6]==1:
                     answer+=1
-                    second[3]=0
-                    second[4]=0
                     second[5]=0
                     second[6]=0
                 if second[5]==second[6]==second[7]==second[8]==1:
                     answer+=1
-                    second[5]=0
-                    second[6]=0
-                    second[7]=0
-                    second[8]=0
                 second=[1]*10
                 f=0
         print(cc-1)
