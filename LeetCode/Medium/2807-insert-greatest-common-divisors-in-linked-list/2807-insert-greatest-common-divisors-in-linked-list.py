@@ -17,25 +17,13 @@ class Solution:
             a=temp.val
             b=temp.next.val
             ans=gcdfind(a,b)
-            lst.append(ans)
-            temp=temp.next
-        res=head
-        c=0
-        i=0
-        print(lst)
-
-        while res.next!=None:
-            if c==0:
-                n1=ListNode(lst[i])
-                i+=1
-                c=1
-                tel=res.next
-                res.next=n1
-                n1.next=tel
-            else:
-                c=0
-            res=res.next
+            node=ListNode(ans)
+            va=temp.next
+            temp.next=node
+            node.next=va
+            temp=temp.next.next
         return head
+
 
         
             
