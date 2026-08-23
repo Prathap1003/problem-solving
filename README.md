@@ -11,6 +11,7 @@
 | [0605-can-place-flowers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -229,6 +230,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Graph Theory
