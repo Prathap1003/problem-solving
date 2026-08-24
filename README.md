@@ -71,6 +71,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
+| [3280-convert-date-to-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
@@ -90,6 +91,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3110-score-of-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
