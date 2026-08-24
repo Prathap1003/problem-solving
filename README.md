@@ -92,6 +92,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3110-score-of-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -134,6 +135,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2595-number-of-even-and-odd-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2595-number-of-even-and-odd-bits/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -174,6 +176,7 @@
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
