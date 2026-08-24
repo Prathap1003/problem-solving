@@ -57,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0182-duplicate-emails/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
