@@ -130,6 +130,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Recursion
@@ -237,6 +238,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0189-rotate-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
