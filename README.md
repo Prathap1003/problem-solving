@@ -12,6 +12,7 @@
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0605-can-place-flowers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
@@ -158,6 +159,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
@@ -236,6 +238,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 ## Brainteaser
