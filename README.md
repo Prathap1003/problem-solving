@@ -25,6 +25,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
