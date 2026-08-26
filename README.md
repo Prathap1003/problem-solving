@@ -112,6 +112,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2315-count-asterisks](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2315-count-asterisks/) | Easy |
 | [2325-decode-the-message](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2325-decode-the-message/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
