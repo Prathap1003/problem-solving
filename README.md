@@ -136,11 +136,13 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
