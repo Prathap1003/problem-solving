@@ -37,6 +37,7 @@
 | [2974-minimum-number-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3115-maximum-prime-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -97,6 +98,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2843-count-symmetric-integers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2843-count-symmetric-integers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3115-maximum-prime-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -251,6 +253,7 @@
 | [2523-closest-prime-numbers-in-range](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Primality Test
@@ -260,6 +263,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
