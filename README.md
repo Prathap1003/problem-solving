@@ -19,6 +19,7 @@
 | [0605-can-place-flowers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
@@ -339,6 +340,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
