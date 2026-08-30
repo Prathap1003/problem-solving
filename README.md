@@ -47,6 +47,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3618-split-array-by-prime-indices](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -111,6 +112,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3516-find-closest-person/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3618-split-array-by-prime-indices](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
@@ -263,6 +265,7 @@
 | [3115-maximum-prime-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3618-split-array-by-prime-indices](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
