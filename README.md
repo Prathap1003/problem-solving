@@ -90,6 +90,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1952-three-divisors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
@@ -243,6 +244,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1952-three-divisors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2843-count-symmetric-integers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2843-count-symmetric-integers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -250,6 +252,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [1952-three-divisors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -271,6 +274,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [1952-three-divisors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
@@ -296,6 +300,7 @@
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Euclidean Algorithm
