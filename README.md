@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0260-single-number-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
@@ -329,6 +330,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
