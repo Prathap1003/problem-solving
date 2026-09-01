@@ -92,6 +92,7 @@
 | [0189-rotate-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0507-perfect-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
+| [0866-prime-palindrome](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0866-prime-palindrome/) | Medium |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
@@ -267,6 +268,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [0866-prime-palindrome](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0866-prime-palindrome/) | Medium |
 | [1952-three-divisors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
@@ -283,6 +285,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [0866-prime-palindrome](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0866-prime-palindrome/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
