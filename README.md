@@ -141,6 +141,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3931-check-adjacent-digit-differences](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3931-check-adjacent-digit-differences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
