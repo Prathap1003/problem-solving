@@ -125,6 +125,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3765-complete-prime-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3765-complete-prime-number/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
@@ -272,6 +273,7 @@
 | [2761-prime-pairs-with-target-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
 | [2843-count-symmetric-integers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2843-count-symmetric-integers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3765-complete-prime-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3765-complete-prime-number/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +291,7 @@
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
+| [3765-complete-prime-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3765-complete-prime-number/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
