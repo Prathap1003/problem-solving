@@ -53,6 +53,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
@@ -171,6 +172,7 @@
 | [2974-minimum-number-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/4020-elevator-requests-i/) | Easy |
 ## Linked List
@@ -205,6 +207,7 @@
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
