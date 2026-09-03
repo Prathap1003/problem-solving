@@ -95,6 +95,7 @@
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [0441-arranging-coins](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [0866-prime-palindrome](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0866-prime-palindrome/) | Medium |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
@@ -369,6 +370,7 @@
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0441-arranging-coins](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
