@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0046-permutations](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -163,6 +164,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0605-can-place-flowers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -328,6 +330,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0189-rotate-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
