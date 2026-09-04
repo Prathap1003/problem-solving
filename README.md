@@ -59,6 +59,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -131,6 +132,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3765-complete-prime-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3765-complete-prime-number/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
