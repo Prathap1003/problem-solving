@@ -62,6 +62,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
 | [4020-elevator-requests-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/4020-elevator-requests-i/) | Easy |
 ## Hash Table
@@ -372,6 +373,7 @@
 | ------- | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
