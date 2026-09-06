@@ -42,6 +42,7 @@
 | [2614-prime-in-diagonal](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -155,6 +156,7 @@
 | [2129-capitalize-the-title](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2129-capitalize-the-title/) | Easy |
 | [2315-count-asterisks](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2315-count-asterisks/) | Easy |
 | [2325-decode-the-message](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2325-decode-the-message/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
