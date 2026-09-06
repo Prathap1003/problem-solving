@@ -46,6 +46,7 @@
 | [2942-find-words-containing-character](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -188,6 +189,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2974-minimum-number-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -382,6 +384,7 @@
 | ------- | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3028-ant-on-the-boundary/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
