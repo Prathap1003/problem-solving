@@ -97,6 +97,7 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0175-combine-two-tables/) | Easy |
 | [0182-duplicate-emails](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0182-duplicate-emails/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0196-delete-duplicate-emails/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Math
 | Problem Name | Difficulty |
