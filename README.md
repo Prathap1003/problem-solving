@@ -147,6 +147,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
@@ -419,4 +420,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
