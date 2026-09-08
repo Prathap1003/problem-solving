@@ -143,6 +143,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3765-complete-prime-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3765-complete-prime-number/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 ## String
