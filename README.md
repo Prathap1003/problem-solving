@@ -155,6 +155,7 @@
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
+| [0434-number-of-segments-in-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0434-number-of-segments-in-a-string/) | Easy |
 | [0709-to-lower-case](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1678-goal-parser-interpretation/) | Easy |
