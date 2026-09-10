@@ -115,6 +115,7 @@
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0441-arranging-coins](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0866-prime-palindrome](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0866-prime-palindrome/) | Medium |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
@@ -364,6 +365,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0189-rotate-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -419,6 +421,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
