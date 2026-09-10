@@ -109,6 +109,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
@@ -221,6 +222,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Bit Manipulation
