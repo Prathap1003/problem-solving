@@ -105,6 +105,7 @@
 | [0176-second-highest-salary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0177-nth-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0182-duplicate-emails/) | Easy |
+| [0183-customers-who-never-order](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0197-rising-temperature/) | Easy |
 | [0595-big-countries](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
