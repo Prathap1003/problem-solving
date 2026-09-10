@@ -18,6 +18,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
 | [0506-relative-ranks](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [0605-can-place-flowers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
@@ -248,6 +249,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,6 +387,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
@@ -411,6 +414,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 ## Sliding Window
