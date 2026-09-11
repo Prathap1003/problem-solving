@@ -59,6 +59,7 @@
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3618-split-array-by-prime-indices](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
@@ -93,6 +94,7 @@
 | [3146-permutation-difference-between-two-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3668-restore-finishing-order/) | Easy |
@@ -233,6 +235,7 @@
 | [0050-powx-n](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +325,7 @@
 | [2761-prime-pairs-with-target-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
 | [2843-count-symmetric-integers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2843-count-symmetric-integers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3765-complete-prime-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3765-complete-prime-number/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
