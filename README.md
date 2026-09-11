@@ -121,6 +121,7 @@
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [0319-bulb-switcher](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0319-bulb-switcher/) | Medium |
 | [0415-add-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
@@ -389,6 +390,7 @@
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0319-bulb-switcher](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0319-bulb-switcher/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 ## Prime Factorization
 | Problem Name | Difficulty |
