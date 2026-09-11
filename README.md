@@ -120,6 +120,7 @@
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [0415-add-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
@@ -169,6 +170,7 @@
 | [0205-isomorphic-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0415-add-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0434-number-of-segments-in-a-string/) | Easy |
 | [0500-keyboard-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
 | [0709-to-lower-case](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
@@ -211,6 +213,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0415-add-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
