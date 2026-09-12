@@ -22,6 +22,7 @@
 | [0260-single-number-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
 | [0500-keyboard-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
@@ -439,6 +440,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Sliding Window
