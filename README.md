@@ -117,6 +117,7 @@
 | [0196-delete-duplicate-emails](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0197-rising-temperature/) | Easy |
 | [0595-big-countries](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
+| [0619-biggest-single-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0619-biggest-single-number/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Math
 | Problem Name | Difficulty |
