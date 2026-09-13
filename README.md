@@ -91,6 +91,7 @@
 | [0904-fruit-into-baskets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2325-decode-the-message](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2325-decode-the-message/) | Easy |
@@ -190,6 +191,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1844-replace-all-digits-with-characters/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
