@@ -26,6 +26,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
@@ -458,6 +459,7 @@
 | [0441-arranging-coins](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0441-arranging-coins/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Sliding Window
