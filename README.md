@@ -61,6 +61,7 @@
 | [2761-prime-pairs-with-target-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -289,6 +290,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2595-number-of-even-and-odd-bits/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
