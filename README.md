@@ -97,6 +97,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0500-keyboard-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1805-number-of-different-integers-in-a-string/) | Easy |
@@ -200,6 +201,7 @@
 | [0500-keyboard-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
 | [0709-to-lower-case](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1678-goal-parser-interpretation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -492,6 +494,7 @@
 | [0904-fruit-into-baskets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
