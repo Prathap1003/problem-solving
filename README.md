@@ -144,6 +144,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0089-gray-code](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0189-rotate-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0319-bulb-switcher](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0319-bulb-switcher/) | Medium |
@@ -276,6 +277,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
@@ -351,6 +353,7 @@
 | ------- | ------- |
 | [0046-permutations](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
