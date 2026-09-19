@@ -309,6 +309,7 @@
 | [3370-smallest-number-with-all-set-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3827-count-monobit-integers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,6 +386,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3765-complete-prime-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3765-complete-prime-number/) | Medium |
+| [3827-count-monobit-integers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
