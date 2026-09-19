@@ -136,6 +136,7 @@
 | [0183-customers-who-never-order](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0197-rising-temperature/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0619-biggest-single-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0619-biggest-single-number/) | Easy |
