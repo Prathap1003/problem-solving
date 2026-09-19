@@ -111,6 +111,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
 | [2325-decode-the-message](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2325-decode-the-message/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2729-check-if-the-number-is-fascinating/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -222,6 +223,7 @@
 | [2129-capitalize-the-title](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2129-capitalize-the-title/) | Easy |
 | [2315-count-asterisks](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2315-count-asterisks/) | Easy |
 | [2325-decode-the-message](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2325-decode-the-message/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
@@ -298,6 +300,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2595-number-of-even-and-odd-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2595-number-of-even-and-odd-bits/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
@@ -334,6 +337,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3591-check-if-any-element-has-prime-frequency/) | Easy |
