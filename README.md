@@ -195,6 +195,7 @@
 | [3618-split-array-by-prime-indices](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3618-split-array-by-prime-indices/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3765-complete-prime-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3765-complete-prime-number/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
@@ -240,6 +241,7 @@
 | [3280-convert-date-to-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3931-check-adjacent-digit-differences](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3931-check-adjacent-digit-differences/) | Easy |
 ## Greedy
@@ -316,6 +318,7 @@
 | [3370-smallest-number-with-all-set-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3827-count-monobit-integers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3827-count-monobit-integers/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -450,6 +453,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
