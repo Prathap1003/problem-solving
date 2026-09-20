@@ -170,6 +170,7 @@
 | [0866-prime-palindrome](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0866-prime-palindrome/) | Medium |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1952-three-divisors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1952-three-divisors/) | Easy |
@@ -304,6 +305,7 @@
 | [0260-single-number-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
 | [0461-hamming-distance](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0461-hamming-distance/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
