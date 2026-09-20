@@ -47,6 +47,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1539-kth-missing-positive-number/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1720-decode-xored-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1720-decode-xored-array/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -307,6 +308,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1720-decode-xored-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1720-decode-xored-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2206-divide-array-into-equal-pairs/) | Easy |
