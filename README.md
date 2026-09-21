@@ -171,6 +171,7 @@
 | [0866-prime-palindrome](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0866-prime-palindrome/) | Medium |
 | [0877-stone-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
+| [1185-day-of-the-week](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1185-day-of-the-week/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1486-xor-operation-in-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1863-sum-of-all-subset-xor-totals/) | Easy |
