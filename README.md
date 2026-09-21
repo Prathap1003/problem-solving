@@ -152,6 +152,7 @@
 | [0577-employee-bonus](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0619-biggest-single-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0619-biggest-single-number/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1068-product-sales-analysis-i/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Math
 | Problem Name | Difficulty |
