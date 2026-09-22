@@ -108,6 +108,7 @@
 | [0205-isomorphic-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0500-keyboard-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
@@ -224,6 +225,7 @@
 | [0205-isomorphic-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
@@ -316,6 +318,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0260-single-number-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0389-find-the-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0461-hamming-distance/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1018-binary-prefix-divisible-by-5/) | Easy |
@@ -352,6 +355,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0506-relative-ranks](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
