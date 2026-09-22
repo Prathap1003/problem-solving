@@ -190,6 +190,7 @@
 | [2413-smallest-even-multiple](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2427-number-of-common-factors/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2523-closest-prime-numbers-in-range/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
