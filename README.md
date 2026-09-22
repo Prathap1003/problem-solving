@@ -327,6 +327,7 @@
 | [0461-hamming-distance](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0461-hamming-distance/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0832-flipping-an-image](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
+| [0868-binary-gap](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0868-binary-gap/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
