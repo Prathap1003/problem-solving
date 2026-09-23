@@ -23,6 +23,7 @@
 | [0189-rotate-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
@@ -109,6 +110,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
@@ -363,6 +365,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0389-find-the-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0506-relative-ranks](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
@@ -377,6 +380,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -611,4 +615,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
