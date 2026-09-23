@@ -28,6 +28,7 @@
 | [0260-single-number-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0500-keyboard-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
@@ -117,6 +118,7 @@
 | [0389-find-the-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0500-keyboard-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
