@@ -32,6 +32,7 @@
 | [0500-keyboard-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0540-single-element-in-a-sorted-array/) | Medium |
+| [0561-array-partition](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0832-flipping-an-image](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
@@ -279,6 +280,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0409-longest-palindrome](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
+| [0561-array-partition](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -375,6 +377,7 @@
 | [0229-majority-element-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0389-find-the-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0506-relative-ranks](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -628,4 +631,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
