@@ -259,6 +259,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1844-replace-all-digits-with-characters/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2129-capitalize-the-title](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2129-capitalize-the-title/) | Easy |
@@ -515,6 +516,7 @@
 | [0832-flipping-an-image](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -620,6 +622,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
