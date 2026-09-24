@@ -1,14 +1,27 @@
-import itertools as co
-import math
+
+def genarate(vis,digits,lst,pst):
+    global count
+    if len(lst)==3:
+        if lst[-1]%2==0 and lst[0]!=0 and lst not in pst:
+            pst.append(lst.copy())
+        return 
+    for i in range(len(digits)):
+        if vis[i]==0:
+            lst.append(digits[i])
+            vis[i]=1
+            genarate(vis,digits,lst,pst)
+            lst.pop()
+            vis[i]=0
 class Solution:
     def totalNumbers(self, digits: List[int]) -> int:
-        values=(set(list(co.permutations(digits,3))))
-        count=0
-        for sets in values:
-            val=int("".join(map(str,sets)))
-            digit_count=len(str(val))
-            if val&1==0 and digit_count==3:
-                count+=1
-        return count
+        vis=[0]*len(digits)
+        lst=[]
+        pst=[]
+        genarate(vis,digits,lst,pst)
+        return len(pst)
+        
+        
+        
+        
         
         
