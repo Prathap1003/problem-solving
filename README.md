@@ -89,6 +89,7 @@
 | [3115-maximum-prime-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3115-maximum-prime-difference/) | Medium |
 | [3151-special-array-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3151-special-array-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3314-construct-the-minimum-bitwise-array-i/) | Easy |
@@ -392,6 +393,7 @@
 | [2974-minimum-number-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3731-find-missing-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -515,6 +517,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
