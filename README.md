@@ -47,6 +47,7 @@
 | [1051-height-checker](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -551,6 +552,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0832-flipping-an-image](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
@@ -595,6 +597,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1539-kth-missing-positive-number/) | Easy |
 ## Sliding Window
