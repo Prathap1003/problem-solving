@@ -122,6 +122,7 @@
 | [0205-isomorphic-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
+| [0290-word-pattern](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0409-longest-palindrome/) | Easy |
@@ -246,6 +247,7 @@
 | [0020-valid-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
+| [0290-word-pattern](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
