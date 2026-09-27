@@ -290,6 +290,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3798-largest-even-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3798-largest-even-number/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3931-check-adjacent-digit-differences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
