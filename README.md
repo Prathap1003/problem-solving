@@ -119,6 +119,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
@@ -244,6 +245,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
@@ -616,6 +618,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
