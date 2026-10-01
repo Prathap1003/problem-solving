@@ -12,7 +12,7 @@ class Solution:
                 else:
                     return False
         if lst:
-            return False            
+            return False         
         return True
 
 
