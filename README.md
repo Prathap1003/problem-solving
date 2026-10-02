@@ -286,6 +286,7 @@
 | [2325-decode-the-message](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2325-decode-the-message/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
+| [2810-faulty-keyboard](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2810-faulty-keyboard/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2942-find-words-containing-character/) | Easy |
@@ -325,6 +326,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2810-faulty-keyboard](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2810-faulty-keyboard/) | Easy |
 | [2974-minimum-number-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
