@@ -455,6 +455,7 @@
 | [0039-combination-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
+| [0077-combinations](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
