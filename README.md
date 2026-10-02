@@ -261,6 +261,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0434-number-of-segments-in-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0434-number-of-segments-in-a-string/) | Easy |
 | [0500-keyboard-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0500-keyboard-row/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
@@ -539,6 +540,7 @@
 | [0283-move-zeroes](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0832-flipping-an-image](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
