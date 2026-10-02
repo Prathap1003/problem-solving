@@ -1,12 +1,12 @@
 def genarate(idx,res,lst,n,k,values):
-    if idx==n:
-        if len(lst)==k:
-            res.append(lst.copy())
+    if len(lst)==k:
+        res.append(lst.copy())
         return
-    if len(lst)<k:
-        lst.append(values[idx])
-        genarate(idx+1,res,lst,n,k,values)
-        lst.pop()
+    if idx==n:
+        return
+    lst.append(values[idx])
+    genarate(idx+1,res,lst,n,k,values)
+    lst.pop()
     genarate(idx+1,res,lst,n,k,values)
 class Solution:
     def combine(self, n: int, k: int) -> list[list[int]]:
