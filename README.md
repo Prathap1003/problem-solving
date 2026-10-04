@@ -264,6 +264,7 @@
 | [0541-reverse-string-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0709-to-lower-case/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -657,6 +658,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
@@ -665,6 +667,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Queue
