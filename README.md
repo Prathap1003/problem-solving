@@ -186,6 +186,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0089-gray-code](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
