@@ -280,6 +280,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1844-replace-all-digits-with-characters/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1859-sorting-the-sentence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2000-reverse-prefix-of-word/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -416,6 +417,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1859-sorting-the-sentence/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2578-split-with-minimum-sum/) | Easy |
 | [2974-minimum-number-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2974-minimum-number-game/) | Easy |
@@ -701,6 +703,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1051-height-checker/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1859-sorting-the-sentence/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
