@@ -186,6 +186,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
@@ -342,6 +343,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
@@ -350,6 +352,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
