@@ -52,6 +52,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
+| [1389-create-target-array-in-the-given-order](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
@@ -328,6 +329,7 @@
 | [0067-add-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0415-add-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0832-flipping-an-image](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0832-flipping-an-image/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
