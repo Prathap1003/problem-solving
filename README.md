@@ -81,6 +81,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
@@ -495,6 +496,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2427-number-of-common-factors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2427-number-of-common-factors/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2761-prime-pairs-with-target-sum/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2843-count-symmetric-integers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
