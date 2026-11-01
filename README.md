@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
@@ -126,6 +127,7 @@
 | [0001-two-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0041-first-missing-positive](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
