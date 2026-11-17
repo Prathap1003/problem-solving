@@ -298,6 +298,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2129-capitalize-the-title](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2129-capitalize-the-title/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2315-count-asterisks](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2315-count-asterisks/) | Easy |
 | [2325-decode-the-message](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2325-decode-the-message/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2351-first-letter-to-appear-twice/) | Easy |
@@ -342,6 +343,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/1389-create-target-array-in-the-given-order/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2810-faulty-keyboard](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2810-faulty-keyboard/) | Easy |
