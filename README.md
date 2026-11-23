@@ -161,6 +161,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -310,6 +311,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3110-score-of-a-string](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3110-score-of-a-string/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3146-permutation-difference-between-two-strings/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Medium/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Prathap1003/problem-solving/tree/main/LeetCode/Easy/3280-convert-date-to-binary/) | Easy |
